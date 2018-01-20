@@ -1,0 +1,11 @@
+﻿  Scene.cpp
+h:\documents\3rd year\games programming\lab docs\imat3606-labs\src\labs\transformsanddatafiles\transformcomponent.h(19): warning C4305: 'argument': truncation from 'double' to 'float'
+h:\documents\3rd year\games programming\lab docs\imat3606-labs\src\labs\transformsanddatafiles\transformcomponent.h(20): warning C4305: 'argument': truncation from 'double' to 'float'
+h:\documents\3rd year\games programming\lab docs\imat3606-labs\src\labs\transformsanddatafiles\transformcomponent.h(21): warning C4305: 'argument': truncation from 'double' to 'float'
+h:\documents\3rd year\games programming\lab docs\imat3606-labs\src\labs\transformsanddatafiles\transformcomponent.h(22): warning C4305: 'argument': truncation from 'double' to 'float'
+h:\documents\3rd year\games programming\lab docs\imat3606-labs\src\labs\transformsanddatafiles\transformcomponent.h(23): warning C4305: 'argument': truncation from 'double' to 'float'
+h:\documents\3rd year\games programming\lab docs\imat3606-labs\src\labs\transformsanddatafiles\transformcomponent.h(24): warning C4305: 'argument': truncation from 'double' to 'float'
+h:\documents\3rd year\games programming\lab docs\imat3606-labs\src\labs\transformsanddatafiles\scene.cpp(103): warning C4018: '<': signed/unsigned mismatch
+h:\documents\3rd year\games programming\lab docs\imat3606-labs\src\labs\transformsanddatafiles\scene.cpp(85): warning C4101: 'elementsToRead': unreferenced local variable
+  TransformsAndDatafilesFinished.vcxproj -> H:\Documents\3rd year\Games Programming\Lab Docs\IMAT3606-Labs\src\Labs\..\..\bin\Win32\Debug\TransformsAndDatafilesFinished.exe
+  TransformsAndDatafilesFinished.vcxproj -> H:\Documents\3rd year\Games Programming\Lab Docs\IMAT3606-Labs\src\Labs\..\..\bin\Win32\Debug\TransformsAndDatafilesFinished.pdb (Full PDB)

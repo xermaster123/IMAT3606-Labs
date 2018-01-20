@@ -1,0 +1,40 @@
+﻿  Game.cpp
+h:\documents\3rd year\games programming\lab docs\imat3606-labs\src\labs\transformsanddatafiles\transformcomponent.h(19): warning C4305: 'argument': truncation from 'double' to 'float'
+h:\documents\3rd year\games programming\lab docs\imat3606-labs\src\labs\transformsanddatafiles\transformcomponent.h(20): warning C4305: 'argument': truncation from 'double' to 'float'
+h:\documents\3rd year\games programming\lab docs\imat3606-labs\src\labs\transformsanddatafiles\transformcomponent.h(21): warning C4305: 'argument': truncation from 'double' to 'float'
+h:\documents\3rd year\games programming\lab docs\imat3606-labs\src\labs\transformsanddatafiles\transformcomponent.h(22): warning C4305: 'argument': truncation from 'double' to 'float'
+h:\documents\3rd year\games programming\lab docs\imat3606-labs\src\labs\transformsanddatafiles\transformcomponent.h(23): warning C4305: 'argument': truncation from 'double' to 'float'
+h:\documents\3rd year\games programming\lab docs\imat3606-labs\src\labs\transformsanddatafiles\transformcomponent.h(24): warning C4305: 'argument': truncation from 'double' to 'float'
+h:\documents\3rd year\games programming\lab docs\imat3606-labs\src\labs\transformsanddatafiles\game.h(24): error C2143: syntax error: missing ';' before '<'
+h:\documents\3rd year\games programming\lab docs\imat3606-labs\src\labs\transformsanddatafiles\game.h(24): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+h:\documents\3rd year\games programming\lab docs\imat3606-labs\src\labs\transformsanddatafiles\game.h(24): error C2238: unexpected token(s) preceding ';'
+h:\documents\3rd year\games programming\lab docs\imat3606-labs\src\labs\transformsanddatafiles\game.cpp(27): error C2065: 'g_inCubes': undeclared identifier
+h:\documents\3rd year\games programming\lab docs\imat3606-labs\src\labs\transformsanddatafiles\game.cpp(27): error C2228: left of '.resize' must have class/struct/union
+  h:\documents\3rd year\games programming\lab docs\imat3606-labs\src\labs\transformsanddatafiles\game.cpp(27): note: type is 'unknown-type'
+h:\documents\3rd year\games programming\lab docs\imat3606-labs\src\labs\transformsanddatafiles\game.cpp(50): error C2065: 'g_inCubes': undeclared identifier
+h:\documents\3rd year\games programming\lab docs\imat3606-labs\src\labs\transformsanddatafiles\game.cpp(50): error C2228: left of '.addComponent' must have class/struct/union
+  Generating Code...
+  Compiling...
+  GLFW_EngineCore.cpp
+h:\documents\3rd year\games programming\lab docs\imat3606-labs\src\labs\transformsanddatafiles\transformcomponent.h(19): warning C4305: 'argument': truncation from 'double' to 'float'
+h:\documents\3rd year\games programming\lab docs\imat3606-labs\src\labs\transformsanddatafiles\transformcomponent.h(20): warning C4305: 'argument': truncation from 'double' to 'float'
+h:\documents\3rd year\games programming\lab docs\imat3606-labs\src\labs\transformsanddatafiles\transformcomponent.h(21): warning C4305: 'argument': truncation from 'double' to 'float'
+h:\documents\3rd year\games programming\lab docs\imat3606-labs\src\labs\transformsanddatafiles\transformcomponent.h(22): warning C4305: 'argument': truncation from 'double' to 'float'
+h:\documents\3rd year\games programming\lab docs\imat3606-labs\src\labs\transformsanddatafiles\transformcomponent.h(23): warning C4305: 'argument': truncation from 'double' to 'float'
+h:\documents\3rd year\games programming\lab docs\imat3606-labs\src\labs\transformsanddatafiles\transformcomponent.h(24): warning C4305: 'argument': truncation from 'double' to 'float'
+h:\documents\3rd year\games programming\lab docs\imat3606-labs\src\labs\transformsanddatafiles\game.h(24): error C2143: syntax error: missing ';' before '<'
+h:\documents\3rd year\games programming\lab docs\imat3606-labs\src\labs\transformsanddatafiles\game.h(24): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+h:\documents\3rd year\games programming\lab docs\imat3606-labs\src\labs\transformsanddatafiles\game.h(24): error C2238: unexpected token(s) preceding ';'
+  Generating Code...
+  Compiling...
+  main.cpp
+h:\documents\3rd year\games programming\lab docs\imat3606-labs\src\labs\transformsanddatafiles\transformcomponent.h(19): warning C4305: 'argument': truncation from 'double' to 'float'
+h:\documents\3rd year\games programming\lab docs\imat3606-labs\src\labs\transformsanddatafiles\transformcomponent.h(20): warning C4305: 'argument': truncation from 'double' to 'float'
+h:\documents\3rd year\games programming\lab docs\imat3606-labs\src\labs\transformsanddatafiles\transformcomponent.h(21): warning C4305: 'argument': truncation from 'double' to 'float'
+h:\documents\3rd year\games programming\lab docs\imat3606-labs\src\labs\transformsanddatafiles\transformcomponent.h(22): warning C4305: 'argument': truncation from 'double' to 'float'
+h:\documents\3rd year\games programming\lab docs\imat3606-labs\src\labs\transformsanddatafiles\transformcomponent.h(23): warning C4305: 'argument': truncation from 'double' to 'float'
+h:\documents\3rd year\games programming\lab docs\imat3606-labs\src\labs\transformsanddatafiles\transformcomponent.h(24): warning C4305: 'argument': truncation from 'double' to 'float'
+h:\documents\3rd year\games programming\lab docs\imat3606-labs\src\labs\transformsanddatafiles\game.h(24): error C2143: syntax error: missing ';' before '<'
+h:\documents\3rd year\games programming\lab docs\imat3606-labs\src\labs\transformsanddatafiles\game.h(24): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+h:\documents\3rd year\games programming\lab docs\imat3606-labs\src\labs\transformsanddatafiles\game.h(24): error C2238: unexpected token(s) preceding ';'
+  Generating Code...
