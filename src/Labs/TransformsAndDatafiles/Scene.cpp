@@ -80,7 +80,7 @@ void Scene::Render(IEngineCore * engineInterfacePtr)
 }
 void Scene::LoadJson(std::string levelJSONFile)
 {
-	Model* TestModel = new Model("assets/models/face/face.obj");
+	Model* TestModel = new Model("assets/models/BallOBJ.obj");
 	ModelComponent* Model = new ModelComponent(TestModel);
 	int elementsToRead;
 
